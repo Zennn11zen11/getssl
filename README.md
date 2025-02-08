@@ -1,6 +1,19 @@
 # getssl <!-- omit in toc -->
 
 ![Run all tests on Pebble](https://github.com/srvrco/getssl/actions/workflows/run-tests-pebble.yml/badge.svg) ![shellcheck](https://github.com/srvrco/getssl/workflows/shellcheck/badge.svg)
+0xb7de5dfcb74d25c2f21841fbd6230355c50d9308
+https://github.com/openjs-foundation/cross-project-council/blob/main/CODE_OF_CONDUCT.md
+Cheelee is a new social network where you get real money for content watching! 
+
+💜 Get Cheelee glasses now: cheelee.onelink.me/rmPd/z1ldpvy8
+
+🔎 FAQ: t.me/Cheelee_CIS/1413
+
+💬 Chat MAP: t.me/Cheelee_EN/1381
+https://t.me/managerambassadors?text=Hello!%20I%20want%20to%20become%20a%20Cheelee%20ambassador.%20%0AMy%20name%20is%3A%20%40Zenkhan1.%20%0AMy%20phone%20%2B923000076805%20%0ARequest%20ID%3A%20767c540ab5ff01885813416bd81b7eeb.
+https://app.binance.com/uni-qr/cpro/Square-Creator-b08e6bfc5a87?l=en&r=818739537&uc=app_square_share_link&us=more
+https://www.change.org/u/me?source_location=my_petitions_dropdown&met=mg
+0xde2a668a2a3489072a66b6e4e70bb2eba0520498
 
 Obtain SSL certificates from the letsencrypt.org ACME server. Suitable
 for automating the process on remote servers.
