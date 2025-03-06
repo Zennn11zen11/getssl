@@ -132,7 +132,8 @@ For example, the release v2.49 contains the following packages in the release se
 - [getssl-2.49-1.noarch.rpm](https://github.com/srvrco/getssl/releases/download/2.49/getssl-2.49-1.noarch.rpm) (binary)
 
 ### **Debian Based Packages (Debian, Ubuntu)**
-
+https://minepi.com/Ewaznazari
+https://app.binance.com/uni-qr/cpro/Square-Creator-b08e6bfc5a87?l=en&r=818739537&uc=app_square_share_link&us=more
 - [getssl_2.49-1_all.deb](https://github.com/srvrco/getssl/releases/download/v2.49/getssl_2.49-1_all.deb) (binary)
 
 ### **Installing Binary Packages**
